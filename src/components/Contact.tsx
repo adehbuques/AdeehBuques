@@ -15,7 +15,7 @@ export function Contact() {
         <div className="grid md:grid-cols-3 gap-8 mb-12">
           {/* WhatsApp */}
           <a
-            href="https://wa.me/5569939855538"
+            href="wa.me/message/GEPMOYC4YUTTD1"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center gap-3 p-6 rounded-2xl transition-all hover:scale-105"
