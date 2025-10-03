@@ -42,7 +42,7 @@ export function Hero() {
             </p>
             
             <a
-              href="https://wa.me/5569939855538"
+              href="https://wa.me/message/GEPMOYC4YUTTD1"
               target="_blank"
               rel="noopener noreferrer"
             >
