@@ -79,7 +79,7 @@ export function HowItWorks() {
         {/* CTA Button */}
         <div className="text-center">
           <a
-            href="wa.me/message/GEPMOYC4YUTTD1"
+            href="https://wa.me/message/GEPMOYC4YUTTD1"
             target="_blank"
             rel="noopener noreferrer"
           >
