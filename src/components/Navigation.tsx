@@ -82,7 +82,7 @@ export function Navigation() {
               </button>
             ))}
             <a
-              href="https://wa.me/5569939855538"
+              href="wa.me/message/GEPMOYC4YUTTD1"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -131,7 +131,7 @@ export function Navigation() {
                 </button>
               ))}
               <a
-                href="https://wa.me/5569939855538"
+                href="wa.me/message/GEPMOYC4YUTTD1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-2"
